@@ -69,4 +69,17 @@ The API will be available at http://127.0.0.1:5000/.
 
 ## *6. Screenshots*
 
+### *1. Books API Output* 
 ![LMS](books.png)
+
+### *2. Users API Output*
+![LMS](users.png)
+
+---
+
+
+## *6. Sources*
+
+### 1. Youtube
+### 2. Flask Documentation
+### 3. Sqlite Documentation
